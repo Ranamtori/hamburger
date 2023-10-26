@@ -1,0 +1,143 @@
+.gora {
+	border-bottom: 50px solid #bb9768;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+    left: 250px;
+	height: 0;
+	width: 150px;
+    position: absolute;
+}
+
+.gora2 {
+    height: 50px;
+    width: 75px;
+    background-color: #bb9768;
+    border-radius: 300px 0 0 0;
+    position: absolute;
+    left: 250px;
+}
+
+.gora3 {
+    height: 50px;
+    width: 50px;
+    background-color: #bb9768;
+    border-radius: 0 300px 0 0;
+    position: absolute;
+    left: 450px;
+}
+
+.dol_gory {
+    height: 20px;
+    width: 250px;
+    background-color: #a37b47;
+    position: absolute;
+    top: 50px;
+    left: 250px;
+}
+
+.ser {
+    height: 15px;
+    width: 350px;
+    background-color: #e4c931;
+    left: 200px;
+    position: absolute;
+}
+
+.ser_dol {
+    height: 5px;
+    width: 350px;
+    background-color: #cab641;
+    left: 200px;
+    position: absolute;
+}
+
+.pomidor {
+    height: 30px;
+    width: 200px;
+    background-color: #b81a1a;
+    left: 275px;
+    top: 90px;
+    position: absolute;
+}
+
+.pomidor_dol {
+    height: 5px;
+    width: 200px;
+    background-color: #722525;
+    left: 275px;
+    top: 120px;
+    position: absolute;
+}
+
+.burgerek {
+    height: 25px;
+    width: 225px;
+    background-color: #a15702;
+    left: 260px;
+    position: absolute;
+    border-radius: 15px 15px 15px 15px ; 
+}
+
+.burgerek {
+    height: 25px;
+    width: 225px;
+    background-color: #a15702;
+    left: 260px;
+    position: absolute;
+    border-radius: 15px 15px 15px 15px ; 
+}
+
+.burgerek_dol {
+    height: 25px;
+    width: 225px;
+    background-color: #693f0e;
+    left: 260px;
+    position: absolute;
+    border-radius: 15px 15px 15px 15px ; 
+}
+
+.cebula {
+    height: 25px;
+    width: 185px;
+    background-color: #660a61;
+    left: 285px;
+    position: absolute;
+}
+
+.kolka_cebuli {
+    position: absolute;
+    background-color: #db82d7;
+    border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    top: 195px;
+}
+
+.kielbaska {
+    position: absolute;
+    background-color: #8d2b05;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    top: 220px;
+}
+
+.ogorek {
+    height: 40px;
+    width: 185px;
+    background-color: #8ec46f;
+    left: 280px;
+    top: 270px;
+    position: absolute;
+    border-radius: 0 0 50px 50px ; 
+}
+
+.ogorek_dol {
+    height: 50px;
+    width: 185px;
+    background-color: #39880c;
+    left: 280px;
+    top: 275px;
+    position: absolute;
+    border-radius: 0 0 50px 50px ; 
+}
